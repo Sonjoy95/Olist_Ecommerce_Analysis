@@ -41,7 +41,7 @@ The final phase translates the technical data into a business-ready tool. I desi
 * **Transactional Filters (Payment Type):** Specifically targets financial KPIs (Revenue & AOV) for granular performance analysis.
 * **DAX Optimization:** Implemented `VAR/RETURN` and `ALLSELECTED` logic to maintain consistent 100% baselines for Cohort Month 0.
 
-![Dashboard](<img width="633" height="369" alt="image" src="https://github.com/user-attachments/assets/ed5abaf2-1f80-459f-9eef-faa91911a5dc" />)
+![Dashboard]<img width="633" height="369" alt="image" src="https://github.com/user-attachments/assets/ed5abaf2-1f80-459f-9eef-faa91911a5dc" />
 
 
 ---
