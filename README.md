@@ -50,9 +50,10 @@ The final phase translates the technical data into a business-ready tool. I desi
 
 ## **How to Use This Repository**
 1.  **SQL:** Run the scripts from `Olist_ecommerce.sql` file to generate the `cohort_retention_results` table.
-2.  **Notebook:** Open `Olist_E-commerce_Analysis.ipynb` to see the statistical heatmap.
-3.  **Power BI:** Open the `Olist_E-commerce_Dashboard.pbix` file in the. 
-    * *Note: Ensure your PostgreSQL service is running on the correct port (e.g., localhost:5433).*
+   * *Note: Ensure your PostgreSQL service is running on the correct port (e.g., localhost:5433).*
+3.  **Notebook:** Open `Olist_E-commerce_Analysis.ipynb` to see the statistical heatmap.
+4.  **Power BI:** Open the `Olist_E-commerce_Dashboard.pbix` file in Power BI. 
+
 
 ## **Conclusion**
 By moving the cohort logic into the SQL layer, this project demonstrates a **Production-Ready** mindset. It allows for advanced Python modeling while providing a fast, interactive Power BI environment that balances high-level executive summaries with granular financial deep-dives.
