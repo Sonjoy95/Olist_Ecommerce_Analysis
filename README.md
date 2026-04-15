@@ -43,7 +43,8 @@ The final phase translates the technical data into a business-ready tool. I desi
 
 ![Dashboard]
 
-<img width="633" height="369" alt="image" src="https://github.com/user-attachments/assets/ed5abaf2-1f80-459f-9eef-faa91911a5dc" />
+<img width="634" height="370" alt="image" src="https://github.com/user-attachments/assets/66e60c33-e181-49e5-b6bf-7f2519420660" />
+
 
 
 ---
